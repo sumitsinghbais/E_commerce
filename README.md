@@ -26,24 +26,7 @@ Business logic
 Authentication
 Database operations
 MongoDB stores users, products, and order data.
-📁 Project Structure
-E_commerce/
-│
-├── client/                 # React Frontend
-│   ├── src/
-│   │   ├── components/     # Reusable UI components
-│   │   ├── pages/          # Pages (Home, Cart, Login, etc.)
-│   │   ├── hooks/          # Custom hooks (if any)
-│   │   └── App.js
-│
-├── server/                 # Backend (Node + Express)
-│   ├── controllers/        # Business logic
-│   ├── routes/             # API routes
-│   ├── models/             # Mongoose schemas
-│   ├── middleware/         # Auth middleware
-│   └── server.js
-│
-└── README.md
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/sumitsinghbais/E_commerce.git
